@@ -1,0 +1,22 @@
+{
+  "name": "nrf51dk-armcc",
+  "version": "0.0.1",
+  "inherits": {
+    "nordic-nrf51822-32k-armcc": "*"
+  },
+  "description": "Official mbed build target for the nRF51-DK 32KB platform.",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "keywords": [
+    "mbed-official",
+    "armcc"
+  ],
+  "similarTo": [
+    "nrf51dk"
+  ],
+  "config": {}
+}
