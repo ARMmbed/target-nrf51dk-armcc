@@ -1,6 +1,6 @@
 {
   "name": "nrf51dk-armcc",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "inherits": {
     "nordic-nrf51822-32k-armcc": "*"
   },
